@@ -1,0 +1,180 @@
+0 ValueIteration: 	[0. 0. 0. 0. 0. 0.]store red
+0 PolicyIteration: 	[0. 0. 0. 0. 0. 0.]store red
+
+1 ValueIteration: 	[0. 0. 0. 0. 1. 0.]store blue
+1 PolicyIteration: 	[0. 0. 0. 0. 1. 0.]store blue
+
+2 ValueIteration: 	[0. 0. 0. 0. 3. 0.]store white
+2 PolicyIteration: 	[0. 0. 0. 0. 3. 0.]store white
+
+3 ValueIteration: 	[0. 0. 0. 0. 3. 2.]restore blue
+3 PolicyIteration: 	[0. 0. 0. 0. 3. 2.]restore blue
+
+4 ValueIteration: 	[0. 0. 0. 0. 0. 2.]restore white
+4 PolicyIteration: 	[0. 0. 0. 0. 0. 2.]restore white
+
+5 ValueIteration: 	[0. 0. 0. 0. 0. 0.]store white
+5 PolicyIteration: 	[0. 0. 0. 0. 0. 0.]store white
+
+6 ValueIteration: 	[0. 0. 0. 0. 0. 2.]store red
+6 PolicyIteration: 	[0. 0. 0. 0. 0. 2.]store red
+
+7 ValueIteration: 	[0. 0. 0. 0. 1. 2.]store white
+7 PolicyIteration: 	[0. 0. 0. 0. 1. 2.]store white
+
+8 ValueIteration: 	[0. 0. 0. 0. 2. 2.]store red
+8 PolicyIteration: 	[0. 0. 0. 0. 2. 2.]store red
+
+9 ValueIteration: 	[0. 0. 0. 1. 2. 2.]restore red
+9 PolicyIteration: 	[0. 0. 0. 1. 2. 2.]restore red
+
+10 ValueIteration: 	[0. 0. 0. 0. 2. 2.]restore red
+10 PolicyIteration: 	[0. 0. 0. 0. 2. 2.]restore red
+
+11 ValueIteration: 	[0. 0. 0. 0. 0. 2.]store white
+11 PolicyIteration: 	[0. 0. 0. 0. 0. 2.]store white
+
+12 ValueIteration: 	[0. 0. 0. 0. 0. 2.]store blue
+12 PolicyIteration: 	[0. 0. 0. 0. 0. 2.]store blue
+
+13 ValueIteration: 	[0. 0. 0. 0. 3. 2.]store white
+13 PolicyIteration: 	[0. 0. 0. 0. 3. 2.]store white
+
+14 ValueIteration: 	[0. 0. 0. 0. 2. 2.]restore red
+14 PolicyIteration: 	[0. 0. 0. 0. 2. 2.]restore red
+
+15 ValueIteration: 	[0. 0. 0. 0. 0. 2.]restore white
+15 PolicyIteration: 	[0. 0. 0. 0. 0. 2.]restore white
+
+16 ValueIteration: 	[0. 0. 0. 0. 0. 0.]restore white
+16 PolicyIteration: 	[0. 0. 0. 0. 0. 0.]restore white
+
+17 ValueIteration: 	[0. 0. 0. 0. 0. 0.]store red
+17 PolicyIteration: 	[0. 0. 0. 0. 0. 0.]store red
+
+18 ValueIteration: 	[0. 0. 0. 0. 1. 0.]store blue
+18 PolicyIteration: 	[0. 0. 0. 0. 1. 0.]store blue
+
+19 ValueIteration: 	[0. 0. 0. 0. 3. 0.]restore red
+19 PolicyIteration: 	[0. 0. 0. 0. 3. 0.]restore red
+
+20 ValueIteration: 	[0. 0. 0. 0. 0. 0.]store blue
+20 PolicyIteration: 	[0. 0. 0. 0. 0. 0.]store blue
+
+21 ValueIteration: 	[0. 0. 0. 0. 0. 3.]store white
+21 PolicyIteration: 	[0. 0. 0. 0. 0. 3.]store white
+
+22 ValueIteration: 	[0. 0. 0. 0. 2. 3.]restore white
+22 PolicyIteration: 	[0. 0. 0. 0. 2. 3.]restore white
+
+23 ValueIteration: 	[0. 0. 0. 0. 0. 3.]restore blue
+23 PolicyIteration: 	[0. 0. 0. 0. 0. 3.]restore blue
+
+24 ValueIteration: 	[0. 0. 0. 0. 0. 0.]restore white
+24 PolicyIteration: 	[0. 0. 0. 0. 0. 0.]restore white
+
+25 ValueIteration: 	[0. 0. 0. 0. 0. 0.]restore white
+25 PolicyIteration: 	[0. 0. 0. 0. 0. 0.]restore white
+
+26 ValueIteration: 	[0. 0. 0. 0. 0. 0.]restore blue
+26 PolicyIteration: 	[0. 0. 0. 0. 0. 0.]restore blue
+
+27 ValueIteration: 	[0. 0. 0. 0. 0. 0.]restore blue
+27 PolicyIteration: 	[0. 0. 0. 0. 0. 0.]restore blue
+
+28 ValueIteration: 	[0. 0. 0. 0. 0. 0.]store red
+28 PolicyIteration: 	[0. 0. 0. 0. 0. 0.]store red
+
+29 ValueIteration: 	[0. 0. 0. 0. 1. 0.]restore red
+29 PolicyIteration: 	[0. 0. 0. 0. 1. 0.]restore red
+
+30 ValueIteration: 	[0. 0. 0. 0. 0. 0.]store red
+30 PolicyIteration: 	[0. 0. 0. 0. 0. 0.]store red
+
+31 ValueIteration: 	[0. 0. 0. 0. 1. 0.]store white
+31 PolicyIteration: 	[0. 0. 0. 0. 1. 0.]store white
+
+32 ValueIteration: 	[0. 0. 0. 0. 1. 2.]store red
+32 PolicyIteration: 	[0. 0. 0. 0. 1. 2.]store red
+
+33 ValueIteration: 	[0. 0. 0. 0. 1. 2.]store red
+33 PolicyIteration: 	[0. 0. 0. 0. 1. 2.]store red
+
+34 ValueIteration: 	[0. 0. 0. 0. 1. 2.]store white
+34 PolicyIteration: 	[0. 0. 0. 0. 1. 2.]store white
+
+35 ValueIteration: 	[0. 0. 0. 0. 2. 2.]store white
+35 PolicyIteration: 	[0. 0. 0. 0. 2. 2.]store white
+
+36 ValueIteration: 	[0. 0. 0. 0. 2. 2.]restore red
+36 PolicyIteration: 	[0. 0. 0. 0. 2. 2.]restore red
+
+37 ValueIteration: 	[0. 0. 0. 0. 0. 2.]restore red
+37 PolicyIteration: 	[0. 0. 0. 0. 0. 2.]restore red
+
+38 ValueIteration: 	[0. 0. 0. 0. 0. 0.]restore red
+38 PolicyIteration: 	[0. 0. 0. 0. 0. 0.]restore red
+
+39 ValueIteration: 	[0. 0. 0. 0. 0. 0.]store red
+39 PolicyIteration: 	[0. 0. 0. 0. 0. 0.]store red
+
+40 ValueIteration: 	[0. 0. 0. 0. 1. 0.]restore white
+40 PolicyIteration: 	[0. 0. 0. 0. 1. 0.]restore white
+
+41 ValueIteration: 	[0. 0. 0. 0. 0. 0.]restore red
+41 PolicyIteration: 	[0. 0. 0. 0. 0. 0.]restore red
+
+42 ValueIteration: 	[0. 0. 0. 0. 0. 0.]restore white
+42 PolicyIteration: 	[0. 0. 0. 0. 0. 0.]restore white
+
+43 ValueIteration: 	[0. 0. 0. 0. 0. 0.]store red
+43 PolicyIteration: 	[0. 0. 0. 0. 0. 0.]store red
+
+44 ValueIteration: 	[0. 0. 0. 0. 1. 0.]store red
+44 PolicyIteration: 	[0. 0. 0. 0. 1. 0.]store red
+
+45 ValueIteration: 	[0. 0. 0. 0. 1. 1.]store white
+45 PolicyIteration: 	[0. 0. 0. 0. 1. 1.]store white
+
+46 ValueIteration: 	[0. 0. 0. 0. 2. 1.]store white
+46 PolicyIteration: 	[0. 0. 0. 0. 2. 1.]store white
+
+47 ValueIteration: 	[0. 0. 0. 0. 2. 1.]store blue
+47 PolicyIteration: 	[0. 0. 0. 0. 2. 1.]store blue
+
+48 ValueIteration: 	[0. 0. 0. 3. 2. 1.]restore red
+48 PolicyIteration: 	[0. 0. 0. 3. 2. 1.]restore red
+
+49 ValueIteration: 	[0. 0. 0. 3. 2. 0.]restore red
+49 PolicyIteration: 	[0. 0. 0. 3. 2. 0.]restore red
+
+50 ValueIteration: 	[0. 0. 0. 3. 0. 0.]restore white
+50 PolicyIteration: 	[0. 0. 0. 3. 0. 0.]restore white
+
+51 ValueIteration: 	[0. 0. 0. 0. 0. 0.]restore blue
+51 PolicyIteration: 	[0. 0. 0. 0. 0. 0.]restore blue
+
+52 ValueIteration: 	[0. 0. 0. 0. 0. 0.]restore white
+52 PolicyIteration: 	[0. 0. 0. 0. 0. 0.]restore white
+
+53 ValueIteration: 	[0. 0. 0. 0. 0. 0.]restore white
+53 PolicyIteration: 	[0. 0. 0. 0. 0. 0.]restore white
+
+54 ValueIteration: 	[0. 0. 0. 0. 0. 0.]store blue
+54 PolicyIteration: 	[0. 0. 0. 0. 0. 0.]store blue
+
+55 ValueIteration: 	[0. 0. 0. 0. 0. 3.]store white
+55 PolicyIteration: 	[0. 0. 0. 0. 0. 3.]store white
+
+56 ValueIteration: 	[0. 0. 0. 0. 2. 3.]store white
+56 PolicyIteration: 	[0. 0. 0. 0. 2. 3.]store white
+
+57 ValueIteration: 	[0. 0. 0. 0. 2. 3.]restore blue
+57 PolicyIteration: 	[0. 0. 0. 0. 2. 3.]restore blue
+
+58 ValueIteration: 	[0. 0. 0. 0. 2. 0.]restore white
+58 PolicyIteration: 	[0. 0. 0. 0. 2. 0.]restore white
+
+59 ValueIteration: 	[0. 0. 0. 0. 0. 0.]restore white
+59 PolicyIteration: 	[0. 0. 0. 0. 0. 0.]restore white
+
